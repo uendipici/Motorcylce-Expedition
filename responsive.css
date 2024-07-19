@@ -1,0 +1,617 @@
+@media all and (max-width: 1650px) {
+    .lefts {
+        width: 65%;
+        margin-top: 18%;
+        margin-left: -8%;
+    }
+
+    .locationpin {
+        margin-top: 5%;
+    }
+
+    .rights {
+        width: 65%;
+        margin-top: 25%;
+        margin-left: 40%;
+    }
+}
+@media all and (max-width: 1400px) {
+    .lefts {
+        width: 60%;
+        margin-left: 3%;
+    }
+
+    .rights {
+        width: 60%;
+    }
+
+    .locationpin {
+        margin-top: 2%;
+    }
+
+    .The2500tours {
+        width: 85%;
+        position: relative;
+        justify-content: center;
+        margin-left: 12%;
+    }
+
+    .orangemotor {
+        width: 85%;
+        position: relative;
+        justify-content: center;
+    }
+
+    .headinguide {
+        font-size: 35px;
+    }
+
+    .pagguide {
+        font-size: 20px;
+    }
+
+    .km100h2 {
+        font-size: 35px;
+    }
+
+    .km100h3 {
+        font-size: 25px;
+    }
+
+    .km300h1 {
+        font-size: 38px;
+    }
+
+    .km300h2 {
+        font-size: 30px;
+    }
+
+    .paragraphtravel {
+        font-size: 18px;
+    }
+
+    .Cont50h2 {
+        font-size: 38px;
+    }
+
+    .Cont50h3 {
+        font-size: 30px;
+    }
+
+    .km1000h1 {
+        font-size: 35px;
+    }
+
+    .km1000h2 {
+        font-size: 25px;
+    }
+
+    .paragraphtravel2 {
+        font-size: 18px;
+    }
+}
+
+@media all and (max-width: 1200px) {
+    .lefts {
+        width: 63%;
+        margin-top: 20%;
+        height: auto;
+    }
+
+    .rights {
+        margin-top: 25%;
+        width: 63%;
+        height: auto;
+    }
+
+    .The2500tours {
+        width: 70%;
+        position: relative;
+        justify-content: center;
+        margin-left: 15%;
+    }
+
+    .orangemotor {
+        width: 70%;
+        margin-left: 15%;
+    }
+
+    .logotopnav {
+        margin-top: 35%;
+        margin-left: 10%;
+    }
+
+    .navbaritem {
+        font-size: 13px;
+        font-weight: bold;
+    }
+
+    .navbar-logos {
+        width: 5%;
+        padding: 2px 2px;
+    }
+
+    .the100 {
+        width: 25%;
+    }
+
+    .perperson {
+        width: 25%;
+    }
+
+    .titlemotor {
+        font-size: 22px;
+    }
+
+    .paragraph {
+        font-size: 15px;
+    }
+
+    .btn {
+        font-size: 15px;
+    }
+
+    .heading {
+        font-size: 40px;
+    }
+
+    .paragraphworld {
+        font-size: 18px;
+    }
+
+    .riderfull {
+        display: flex;
+        position: relative;
+        width: 65%;
+        float: right;
+        margin-top: 25%;
+    }
+
+    .toptextjohn {
+        font-size: 25px;
+    }
+
+    .bottomtextjohn {
+        font-size: 18px;
+    }
+
+    .paragraphsolo {
+        width: 120%;
+    }
+
+    .headinguide {
+        font-size: 30px;
+    }
+
+    .pagguide {
+        font-size: 15px;
+    }
+
+    .km100h2 {
+        font-size: 30px;
+    }
+
+    .km100h3 {
+        font-size: 20px;
+    }
+
+    .km300h1 {
+        font-size: 33px;
+    }
+
+    .km300h2 {
+        font-size: 25px;
+    }
+
+    .paragraphtravel {
+        font-size: 13px;
+    }
+
+    .Cont50h2 {
+        font-size: 33px;
+    }
+
+    .Cont50h3 {
+        font-size: 25px;
+    }
+
+    .km1000h1 {
+        font-size: 30px;
+    }
+
+    .km1000h2 {
+        font-size: 20px;
+    }
+
+    .paragraphtravel2 {
+        font-size: 13px;
+    }
+
+    .h1start {
+        font-size: 40px;
+    }
+
+    .pstart {
+        font-size: 16px;
+    }
+
+    .locationpin {
+        width: 8%;
+    }
+
+    .imgpic {
+        display: flex;
+        margin: auto;
+        height: auto;
+        width: 300px;
+    }
+
+
+
+    .emailinfo h1 {
+        font-size: 30px;
+    }
+
+    .emailinfo p {
+        font-size: 15px;
+    }
+
+    .phoneimg {
+        margin-left: 25%;
+
+    }
+
+    .phoneinfo h1 {
+        font-size: 30px;
+    }
+
+    .phoneinfo p {
+        font-size: 13px;
+    }
+
+    /*  */
+
+    .addressinfo h1 {
+        font-size: 30px;
+    }
+
+    .addressinfo p {
+        font-size: 15px;
+    }
+
+    .iconlast {
+        width: 5%;
+    }
+
+    .hiddencontact {
+        display: none;
+    }
+}
+
+@media all and (max-width: 986px) {
+    .thebutton {
+        display: flex;
+        position: relative;
+        margin-left: 80%;
+        margin-top: -5%;
+    }
+
+    .logotopnav {
+        width: 35%;
+        margin-top: 5%;
+        margin-left: 2%;
+    }
+
+
+
+
+    .navbar-logos {
+        display: none;
+        position: absolute;
+    }
+
+    .dropdown1 {
+        display: flex;
+        position: relative;
+        text-align: right;
+        width: 20%;
+    }
+
+
+
+
+    .navbaritem {
+        position: absolute;
+        display: none;
+    }
+
+    .back12 {
+        display: none;
+        position: absolute;
+    }
+
+    .lefts {
+        display: none;
+        position: absolute;
+    }
+
+    .rights {
+        display: none;
+        position: absolute;
+    }
+
+
+    .headinguide {
+        font-size: 30px;
+    }
+
+    .pagguide {
+        font-size: 15px;
+    }
+
+    .km100h2 {
+        margin-top: -30%;
+        font-size: 30px;
+    }
+
+    .km100h3 {
+
+        font-size: 20px;
+    }
+
+    .km300h1 {
+        margin-top: -22%;
+        font-size: 33px;
+    }
+
+    .km300h2 {
+        font-size: 25px;
+    }
+
+    .paragraphtravel {
+        font-size: 13px;
+    }
+
+    .Cont50h2 {
+        margin-top: -22%;
+        font-size: 38px;
+    }
+
+    .Cont50h3 {
+        font-size: 25px;
+    }
+
+
+    .km1000 {
+        margin-left: auto;
+    }
+
+    .km1000h1 {
+        margin-top: -25%;
+        font-size: 30px;
+    }
+
+    .km1000h2 {
+        font-size: 20px;
+    }
+
+    .paragraphtravel2 {
+        font-size: 13px;
+    }
+
+    .imgpic {
+        display: flex;
+        margin: auto;
+        height: auto;
+        width: 200px;
+    }
+
+
+
+
+
+}
+
+
+@media all and (max-width: 768px) {
+
+    .back12 {
+        display: none;
+        position: absolute;
+    }
+
+    .lefts {
+        display: none;
+        position: absolute;
+    }
+
+    .rights {
+        display: none;
+        position: absolute;
+    }
+
+    .navbar-logos {
+        display: none;
+        position: absolute;
+    }
+
+
+    .logotopnav {
+
+        width: 42%;
+        margin-top: 5%;
+        margin-left: 5%;
+
+    }
+
+    .navbaritem {
+        position: absolute;
+        display: none;
+    }
+
+    .iconlast {
+        display: none;
+
+    }
+
+    .thebutton {
+        margin-left: 75%;
+        margin-top: -8%;
+    }
+
+    .The2500tours {
+        margin-left: 20px;
+        margin-top: 6%;
+        width: 90%;
+    }
+
+    .therider {
+        display: none;
+        position: absolute;
+    }
+
+    .imgpic {
+        display: flex;
+        margin: auto;
+        height: auto;
+        width: 300px;
+    }
+
+    .rectange {
+        width: 40%;
+    }
+
+
+    .heading {
+        font-size: 22px;
+    }
+
+    .paragraphworld {
+        font-size: 15px;
+    }
+
+    .tpimg {
+        width: 70%;
+    }
+
+    .toptextjohn {
+        font-size: 18px;
+        margin-left: -5%;
+    }
+
+    .bottomtextjohn {
+        font-size: 12px;
+        margin-left: -5%;
+    }
+
+    .paragraphsolo {
+        font-size: 15px;
+        width: 100%;
+        margin-bottom: 5%;
+    }
+
+    .backgroundtours {
+        display: none;
+    }
+
+    .section1oftours {
+        background-color: black;
+    }
+
+    .section1oftours2 {
+        padding-top: 5%;
+        background-color: #cd0a2d;
+    }
+
+    .headinguide {
+        font-size: 22px;
+    }
+
+    .pagguide {
+        font-size: 15px;
+        width: 100%;
+        background-color: black;
+        margin-bottom: -16px;
+        padding-bottom: 15px;
+    }
+
+    .km100 {
+        margin-left: 10% !important;
+        margin-top: 10% !important;
+
+    }
+
+    .km300 {
+        margin-left: 5% !important;
+        margin-top: 10% !important;
+    }
+
+    .Cont50 {
+        margin-left: 10% !important;
+        margin-top: 10% !important;
+    }
+
+    .km1000 {
+        margin-left: 5% !important;
+        margin-top: 10% !important;
+    }
+
+    .coolsaying1 {
+        justify-content: center;
+    }
+
+    .coolsaying2 {
+        justify-content: center;
+    }
+
+    .h1start {
+        justify-content: center;
+        background-color: black;
+        padding-bottom: 10px;
+        margin-bottom: 0 !important;
+    }
+
+    .pstart {
+        padding-top: 10px;
+        padding-bottom: 15px;
+        padding-left: 2px;
+        background-color: #cd0a2d;
+        font-size: 15px;
+        height: 50%;
+        ;
+    }
+
+    .heartravel {
+        font-size: 25px;
+    }
+
+    .locationpin {
+        display: none;
+        position: absolute;
+    }
+
+    .emailimg {
+        display: none;
+        position: absolute;
+    }
+
+    .phoneimg {
+        display: none;
+        position: absolute;
+    }
+
+    .addressimg {
+        display: none;
+        position: absolute;
+    }
+
+    .thebutton {
+        display: flex;
+        position: relative;
+    }
+
+    .backgroundlast {
+        display: none;
+        position: relative;
+    }
+}

@@ -1,0 +1,420 @@
+/* start of top section */
+/* .container {
+    background-color: #ededed;
+  }
+  
+   .Topsection {
+    background-color: #ededed;
+  }
+   */
+.thebutton {
+    display: none;
+    position: absolute;
+}
+
+.backgroundtours {
+    width: 100%;
+    position: absolute;
+    z-index: 0;
+}
+
+.logotopnav:hover {
+    opacity: 0.8;
+}
+
+.back12 {
+    z-index: 0;
+    position: absolute;
+    background-color: #ededed;
+    width: 100%;
+}
+
+.navbaritem {
+    margin-top: 5%;
+}
+
+.navbaritem:hover {
+    opacity: 0.8;
+    background: #000000;
+    /* text-decoration: none; */
+    border-radius: 50px;
+}
+
+.navbar-logos {
+    float: right;
+    cursor: pointer;
+}
+
+.navbaritem {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.navbar-logos:hover {
+    opacity: 1.8;
+    background-color: #000000;
+    border-radius: 80px;
+}
+
+.HeaderBackground {
+    position: absolute;
+    width: 100%;
+    z-index: 0;
+}
+
+.The2500tours {
+    position: relative;
+    margin-top: 5%;
+    z-index: 1;
+}
+
+.orangemotor {
+    margin-left: 8%;
+    position: relative;
+    z-index: 1;
+    margin-top: 5%;
+    padding-bottom: 10%;
+}
+
+/* End of top section */
+/* start of our plans */
+.cards {
+    padding-bottom: 10%;
+    padding-top: 10%;
+    background-color: #ededed;
+    justify-content: center;
+    display: flex;
+}
+
+.card {
+    border-color: #ededed;
+}
+
+.rectange {
+    position: relative;
+    margin-top: -45%;
+    margin-left: -3%;
+    width: 45%;
+    z-index: 0;
+}
+
+.titlemotor {
+    color: #000000;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.paragraph {
+    color: #575757;
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+.btn {
+    -webkit-border-radius: 28;
+    border-radius: 30px 30px 30px 30px;
+    font-family: Arial;
+    color: rgb(255, 255, 255);
+    font-size: 26px;
+    background: #ff0000;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.btn:hover {
+    background: #000000;
+    text-decoration: none;
+    opacity: 1.8;
+}
+
+.the100 {
+    position: relative;
+    margin-top: -60%;
+}
+
+.perperson {
+    position: relative;
+    margin-top: -32%;
+    margin-left: -26%;
+}
+
+.header3 {
+    background-color: #ededed;
+    position: relative;
+}
+
+.heading {
+    margin-top: 8%;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.topjohn {
+    margin-left: 15%;
+}
+
+.tpimg {
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.toptextjohn {
+    padding-left: 10px;
+    font-size: 30px;
+    justify-content: center;
+}
+
+.bottomtextjohn {
+    padding-left: 20px;
+    font-size: 20px;
+}
+
+.paragraphworld {
+    font-size: 20px;
+    text-align: center;
+    color: #676767;
+    margin-bottom: 10%;
+}
+
+.paragraphsolo {
+    text-align: center;
+    width: 80%;
+    font-size: 22px;
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 5%;
+}
+
+.rider {
+    position: relative;
+}
+
+.travelingblog {
+    text-align: center;
+    justify-content: center;
+    margin-top: 20%;
+    margin-bottom: 5%;
+}
+
+.heartravel {
+    font-size: 60px;
+}
+
+.dropdown1 {
+    display: none;
+    position: absolute;
+
+}
+
+.background2 {
+    position: relative;
+    width: 100%;
+    height: auto;
+}
+
+.lefts {
+    position: relative;
+    margin-top: 25%;
+    margin-left: -25%;
+    padding-bottom: 33%;
+}
+
+.rights {
+    position: relative;
+    margin-top: 45%;
+    margin-left: 50%;
+}
+
+.headinguide {
+    padding-top: 5%;
+    text-align: center;
+    position: relative;
+    color: white;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.pagguide {
+    text-align: center;
+    position: relative;
+    color: white;
+    font-size: 24px;
+    font-weight: normal;
+    padding-bottom: 5%;
+}
+
+.km100 {
+    margin-left: 20%;
+    margin-top: 5%;
+    color: white;
+    text-align: center;
+}
+
+.km300 {
+    margin-left: 15%;
+    margin-top: 5%;
+    color: white;
+    text-align: center;
+}
+
+.paragraphtravel {
+    color: white;
+    font-size: 20px;
+    width: 60%;
+    text-align: center;
+    margin-left: 15%;
+    margin-top: 5%;
+}
+
+.km100h2 {
+    font-weight: bold;
+    font-size: 42px;
+}
+
+.km100h3 {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.km300h1 {
+    font-weight: bold;
+    font-size: 70px;
+}
+
+.km300h2 {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.paragraphtravel2 {
+    color: white;
+    font-size: 20px;
+    width: 60%;
+    text-align: center;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+
+.Cont50 {
+    color: white;
+    text-align: center;
+    margin-left: 25%;
+    margin-top: 5%;
+}
+
+.km1000 {
+    color: white;
+    text-align: center;
+    margin-left: 15%;
+    margin-top: 5%;
+}
+
+.Cont50h2 {
+    font-weight: bold;
+    font-size: 70px;
+}
+
+.Cont50h3 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.km1000h1 {
+    font-size: 42px;
+    font-weight: bold;
+}
+
+.km1000h2 {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.backgroundlast {
+    width: 100%;
+    position: absolute;
+    z-index: 0;
+}
+
+.Startjur {
+    color: white;
+    z-index: 1;
+    position: relative;
+}
+
+.h1start {
+    font-size: 60px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 5%;
+}
+
+.locationpin {
+    z-index: 1;
+    padding-bottom: 5%;
+    position: relative;
+    margin-left: 45%;
+    margin-top: 8%;
+}
+
+.pstart {
+    text-align: center;
+}
+
+.emailimg {
+    margin-top: 50%;
+}
+
+.emailinfo {
+    text-align: center;
+    margin-left: 5%;
+}
+
+.phoneimg {
+    margin-top: 5%;
+}
+
+.phoneinfo {
+    text-align: center;
+    margin-left: 5%;
+}
+
+.addressimg {
+    margin-top: 5%;
+}
+
+.addressinfo {
+    text-align: center;
+    margin-left: 5%;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 2%
+}
+
+.footer2 {
+    width: 100%;
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color: #cd0a2d;
+    color: white;
+}
+
+.iconlast {
+    margin: 10px 10px 10px 10px;
+    justify-content: center;
+    text-align: center;
+    position: relative;
+    background-color: rgb(255, 0, 0);
+    border-radius: 80px;
+
+}
+
+.iconlast:hover {
+    opacity: 0.7;
+    background: #000000;
+}
